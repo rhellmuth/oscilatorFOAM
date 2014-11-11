@@ -1,0 +1,4 @@
+*.dep
+*.creator.user
+Make/linuxGccDPOpt/
+*~
