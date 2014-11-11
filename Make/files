@@ -1,0 +1,6 @@
+oscilator.C
+Oscilator.C
+Oscilator.H
+OscilatorI.H
+
+EXE = $(FOAM_USER_APPBIN)/myOscilator
